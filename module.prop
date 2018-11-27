@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=motokey
+name=MOTO Z² U-Touch改键
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=daiaji
+description=修改MOTO Z² U-Touch按键定义，使其更可用。
 minMagisk=17000
