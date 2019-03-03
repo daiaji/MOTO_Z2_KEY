@@ -1,7 +1,7 @@
 id=motokey
-name=MOTO Z² U-Touch改键
+name=Pixel2开机动画更换
 version=v1
 versionCode=1
 author=daiaji
-description=修改MOTO Z² U-Touch按键定义，使其更可用。
+description=更换为Pixel2的开机动画（2K分辨率）
 minMagisk=17000
