@@ -63,7 +63,7 @@ REPLACE="
 # Construct your own list here, it will override the example above
 # !DO NOT! remove this if you don't need to replace anything, leave it empty as it is now
 REPLACE="
-/system/usr/keylayout/uinput-fpc.kl
+/system/vendor/usr/keylayout/uinput-fpc.kl
 "
 
 ##########################################################################################
@@ -86,7 +86,7 @@ set_permissions() {
 
   # The following is default permissions, DO NOT remove
   set_perm_recursive  $MODPATH  0  0  0755  0644
-  set_perm  $MODPATH/system/usr/keylayout/uinput-fpc.kl  0  0  0644
+  set_perm  $MODPATH/system/vendor/usr/keylayout/uinput-fpc.kl  0  0  0644
 
 }
 
